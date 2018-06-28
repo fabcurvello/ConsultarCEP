@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CEP"
+             x:Class="CEP.MainPage">
+    
+    <!-- Layut com itens empilhados na vertical -->
+    <StackLayout BackgroundColor="#FFBF00" Padding="30" Spacing="30">
+
+        <Image x:Name="LOGO" 
+               Source="LogoCorreios.png" />
+        
+        <!-- Caixa de Texto -->
+        <Entry x:Name="CEP" 
+               Keyboard="Numeric" 
+               Placeholder="Digite o CEP" 
+               PlaceholderColor="#FFBF00" 
+               BackgroundColor="White" />
+
+        <Button x:Name="BOTAO" Clicked="BuscarCEP"
+                Text="BUSCAR CEP"
+                TextColor="#FFFFFF"
+                FontSize="Medium"
+                BackgroundColor="#00416B" />
+
+        <Label x:Name="RESULTADO" 
+               FontSize="Medium"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+    </StackLayout>
+
+</ContentPage>

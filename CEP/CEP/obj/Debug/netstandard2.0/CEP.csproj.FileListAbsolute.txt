@@ -1,0 +1,9 @@
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\bin\Debug\netstandard2.0\CEP.deps.json
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\bin\Debug\netstandard2.0\CEP.dll
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\bin\Debug\netstandard2.0\CEP.pdb
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\obj\Debug\netstandard2.0\CEP.csprojAssemblyReference.cache
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\obj\Debug\netstandard2.0\CEP.csproj.CoreCompileInputs.cache
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\obj\Debug\netstandard2.0\CEP.AssemblyInfoInputs.cache
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\obj\Debug\netstandard2.0\CEP.AssemblyInfo.cs
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\obj\Debug\netstandard2.0\CEP.dll
+D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP\obj\Debug\netstandard2.0\CEP.pdb
