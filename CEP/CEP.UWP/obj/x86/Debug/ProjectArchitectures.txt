@@ -1,1 +1,0 @@
-D:\Projetos\VS\XamarinForms2018\CEP\CEP\CEP.UWP\CEP.UWP.csproj;x86

@@ -26,7 +26,7 @@ namespace CEP.Servico
             //JSON retornado pelo WebClient é convertido para string
             string Conteudo = wc.DownloadString(EnderecoURLComCep);
 
-            //Converter string em objeto do tipo Endereco 
+            //Converter string em objeto do tipo Endereco (Deserializar)
             Endereco end = JsonConvert.DeserializeObject<Endereco>(Conteudo);
 
             //Tratamento de errro
